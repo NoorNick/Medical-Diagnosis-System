@@ -3,7 +3,7 @@ machine learning model built to support medical diagnoses based on patient data.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `notebooks/` – Contains exploratory and main notebooks.
 - `outputs/` – logs, Metrics, etc.
@@ -11,7 +11,7 @@ machine learning model built to support medical diagnoses based on patient data.
 
 ---
 
-## 🧬 Dataset Explanation
+## Dataset Explanation
 
 The dataset contains anonymized patient records with the following features:
 
@@ -24,18 +24,18 @@ The dataset contains anonymized patient records with the following features:
 
 ---
 
-## ⚙️ Features of This Example
+## Features of This Example
 
-- ✅ Simple classification example using scikit-learn
-- ✅ Clear structure to expand into a real-world project
-- ✅ Easy to understand and modify
-- ❌ No preprocessing or advanced EDA
-- ❌ No deployment or UI integration
+-  Simple classification example using scikit-learn
+-  Clear structure to expand into a real-world project
+-  Easy to understand and modify
+-  No preprocessing or advanced EDA
+-  No deployment or UI integration
 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
 ```
@@ -51,6 +51,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/medical_diagnosis_system.ipynb
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 See `requirements.txt`.
